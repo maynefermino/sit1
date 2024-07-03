@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom, #d3d3d3, #a9a9a9);
+    background: linear-gradient(to bottom, #a90f0f, #f00bba);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -29,7 +29,7 @@ header {
 .start {
     font-size: 2em;
     margin-left: 10px;
-    color: rgb(0, 0, 255); /* RGB */
+    color: rgb(222, 58, 8); 
 }
 
 main {
